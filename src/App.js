@@ -312,7 +312,6 @@ export default function Calorie() {
         <Typography variant="subtitle1" align="center" color="textSecondary" component="p">
           Database pulled from US government open data.
         </Typography>
-        <Copyright />
       </footer>
       {/* End footer */}
     </React.Fragment>
